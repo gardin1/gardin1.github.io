@@ -1,0 +1,19 @@
+body {
+  background-color: green;
+  color: yellow;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  font-size: 80px
+}
+img {
+  display: block;
+  margin: 20px auto;
+}
+
+.cute {
+  color: pink;
+  text-decoration: underline;
+}
